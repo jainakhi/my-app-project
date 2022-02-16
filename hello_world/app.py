@@ -1,7 +1,7 @@
 import json
 
 # import requests
-# my new case
+# my new case rateDemo
 
 def lambda_handler(event, context):
     """Sample pure Lambda function
